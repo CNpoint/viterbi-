@@ -1,5 +1,5 @@
 '''
-作者：施国峰
+author：Guofeng S
 '''
 
 import numpy as np
