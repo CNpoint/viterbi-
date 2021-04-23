@@ -1,3 +1,7 @@
+'''
+作者：施国峰
+'''
+
 import numpy as np
 
 Text_path = r'./output/最终文档.txt'
